@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siva G
+# 👋 Hi, I'm G Siva
 
 **☁️ AWS Cloud Developer | 🐍 Python | 🤖 AI & Serverless Applications**
 
