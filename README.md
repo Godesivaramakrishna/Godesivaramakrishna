@@ -13,7 +13,7 @@ I am a passionate software developer focused on building cloud-based and AI-powe
 
 ## Skills / Tech Stack
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, Java
 - **Cloud & Serverless:** AWS Lambda, API Gateway, DynamoDB, S3
 - **AI Services:** Textract, Comprehend, Rekognition
 - **Frameworks / Tools:** Flask, Node.js, Git, Linux
