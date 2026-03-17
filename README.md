@@ -1,12 +1,12 @@
-# 👋 Hi, I'm G Siva
+# Hi, I'm G Siva
 
-**☁️ AWS Cloud Developer | 🐍 Python | 🤖 AI & Serverless Applications**
+**AWS Cloud Developer | Python | AI & Serverless Applications**
 
-📍 Andhra Pradesh, India (IST)
+Andhra Pradesh, India (IST)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a passionate software developer focused on building **cloud-based and AI-powered applications**. I enjoy creating practical solutions using **Python, AWS serverless services, and modern web technologies**.
 
@@ -16,56 +16,56 @@ I constantly explore new technologies and enjoy building projects that combine *
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### ☁️ Cloud & Serverless
+### Cloud & Serverless
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-### 🤖 AI Services
+### AI Services
 Amazon Textract • Amazon Comprehend • Amazon Rekognition
 
-### ⚙️ Frameworks / Tools
+### Frameworks / Tools
 Flask • Node.js • Git • Linux
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-### 🩸 Blood Donation System
+### Blood Donation System
 A web-based platform connecting **blood donors and recipients**, helping streamline emergency blood requests.
 
-### 🤖 HireFusion AI
+### HireFusion AI
 An **AI-powered hiring assistant** that helps automate resume screening and improve recruitment workflow.
 
-### 📄 Resume Role Prediction
+### Resume Role Prediction
 A smart resume analysis system that predicts the **top 3 best-fit job roles** based on resume content.
 
 ---
 
-# 📫 Contact
+# Contact
 
-🔗 **LinkedIn**  
+**LinkedIn**  
 https://www.linkedin.com/in/gsrk-durgaprasad-a00451291/
 
-🌐 **Portfolio**  
+**Portfolio**  
 https://profilo-chi.vercel.app/
 
-📧 **Email**  
+**Email**  
 goderaja288@gmail.com
 
-💻 **GitHub**  
+**GitHub**  
 https://github.com/Godesivaramakrishna
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 > Note: The statistics below are generated using external GitHub README widgets  
 > (GitHub Readme Stats and GitHub Streak Stats). They are **not custom-built features**.
@@ -86,13 +86,13 @@ https://github.com/Godesivaramakrishna
 
 ---
 
-# 📈 GitHub Activity Graph
+# GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Godesivaramakrishna&theme=tokyo-night)
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 • Advanced AWS Serverless Architectures  
 • AI-powered application development  
