@@ -80,7 +80,7 @@ https://github.com/Godesivaramakrishna
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Godesivaramakrishna&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Godesivaramakrishna&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
