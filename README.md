@@ -105,17 +105,15 @@ I'm an **AWS Certified Developer Associate (2026)** focused on building serverle
 
 ---
 
-## GitHub Stats
+## GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godesivaramakrishna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godesivaramakrishna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godesivaramakrishna&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Godesivaramakrishna&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Godesivaramakrishna&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
