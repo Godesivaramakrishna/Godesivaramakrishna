@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud & Backend Engineer · AWS Certified Developer Associate · Python · Serverless & AI Applications</b><br/>
-  Andhra Pradesh, India · B.Tech ECE @ Aditya College of Engineering (2023–2027)
+  Andhra Pradesh, India · B.Tech ECE @ Aditya College of Engineering and Technology(2023–2027)
 </p>
 
 <p align="center">
@@ -97,14 +97,14 @@ I'm an **AWS Certified Developer Associate (2026)** focused on building serverle
 
 ## Certifications
 
-| Certification | Issuer | Issued |
-|---|---|---|
-| 🏅 [AWS Certified Developer – Associate](https://aws.amazon.com/verification) · `be58812c8777403aa525c201128409ff` | Amazon Web Services | Mar 2026 · Expires Mar 2029 |
-| 🏅 [Prompt Design in Vertex AI](https://google.com) · `1178ca1c-555b-4f01-8325-92ea53f08e66` | Google Cloud | 2025 · No Expiry |
-| 🏅 Python Libraries for Data Science · `9913271` | — | Mar 2026 |
-| 🏅 [Python Essentials 2](https://www.netacad.com) | Cisco Networking Academy × Python Institute | Jun 2026 |
-| 🏅 [Python Essentials 1](https://www.netacad.com) | Cisco Networking Academy × Python Institute | Jun 2026 |
-| 🏅 [AWS Academy Cloud Foundations](https://www.credly.com/go/CTfTAQOv) | AWS Academy | Jul 2025 |
+| # | Certification | Issuer | Issued | Verify |
+|---|---|---|---|---|
+| 1 | 🏅 AWS Certified Developer – Associate | Amazon Web Services | Mar 2026 · Expires Mar 2029 | [Credly](https://www.credly.com/badges/7635cd95-eee6-4560-863e-d5861ffb8017/public_url) |
+| 2 | 🏅 Prompt Design in Vertex AI | Google Cloud | 2025 · No Expiry | [Credly](https://www.credly.com/badges/1178ca1c-555b-4f01-8325-92ea53f08e66/public_url) |
+| 3 | 🏅 Python Essentials 1 | Cisco Networking Academy × Python Institute | Jun 2026 | [Credly](https://www.credly.com/badges/a12fe809-1167-44e5-b2fd-4918a8c7a49f/public_url) |
+| 4 | 🏅 Python Essentials 2 | Cisco Networking Academy × Python Institute | Jun 2026 | [Credly](https://www.credly.com/badges/3a7ab20e-a80b-43dc-b873-1fc4ff8f891a/public_url) |
+| 5 | 🏅 Python Libraries for Data Science | — | Mar 2026 | [Repo](https://github.com/Godesivaramakrishna/GSRKcertifications.git) |
+| 6 | 🏅 AWS Academy Cloud Foundations | AWS Academy | Jul 2025 | [Repo](https://github.com/Godesivaramakrishna/GSRKcertifications.git) |
 
 ---
 
