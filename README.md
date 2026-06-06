@@ -1,17 +1,14 @@
 <h1 align="center">Hi, I'm Gode Sivaramakrishna Durgaprasad 👋</h1>
-
 <p align="center">
   <b>Cloud & Backend Engineer · AWS Certified Developer Associate · Python · Serverless & AI Applications</b><br/>
   Andhra Pradesh, India · B.Tech ECE @ Aditya College of Engineering and Technology(2023–2027)
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/gsrk-durgaprasad-a00451291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:godesivaramakrishna@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gsrk-durgaprasad-a00451291/"><img src="https://img.shields.io/badge/LinkedIn-gsrk--durgaprasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:godesivaramakrishna@gmail.com"><img src="https://img.shields.io/badge/Gmail-godesivaramakrishna-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Godesivaramakrishna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Godesivaramakrishna&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-
 ---
 
 ## About Me
