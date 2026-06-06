@@ -100,7 +100,7 @@ I'm an **AWS Certified Developer Associate (2026)** focused on building serverle
 | 2 | 🏅 Prompt Design in Vertex AI | Google Cloud | 2025 · No Expiry | [Credly](https://www.credly.com/badges/1178ca1c-555b-4f01-8325-92ea53f08e66/public_url) |
 | 3 | 🏅 Python Essentials 1 | Cisco Networking Academy × Python Institute | Jun 2026 | [Credly](https://www.credly.com/badges/a12fe809-1167-44e5-b2fd-4918a8c7a49f/public_url) |
 | 4 | 🏅 Python Essentials 2 | Cisco Networking Academy × Python Institute | Jun 2026 | [Credly](https://www.credly.com/badges/3a7ab20e-a80b-43dc-b873-1fc4ff8f891a/public_url) |
-| 5 | 🏅 Python Libraries for Data Science | — | Mar 2026 | [Repo](https://github.com/Godesivaramakrishna/GSRKcertifications.git) |
+| 5 | 🏅 Python Libraries for Data Science | Simplilearn | Mar 2026 | [Repo](https://github.com/Godesivaramakrishna/GSRKcertifications.git) |
 | 6 | 🏅 AWS Academy Cloud Foundations | AWS Academy | Jul 2025 | [Repo](https://github.com/Godesivaramakrishna/GSRKcertifications.git) |
 
 ---
