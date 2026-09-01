@@ -27,8 +27,8 @@
 
 I'm an **AWS Certified Developer Associate (2026)** who designs and ships **serverless, containerized, and AI-integrated systems** on AWS and GCP — with a focus on turning manual, expensive workflows into automated, pay-per-use pipelines.
 
-- 🔭 Currently building **[HireFusion AI](https://github.com/Godesivaramakrishna/HireFusionAI)** — a serverless resume screening & interview analysis platform on AWS
-- 🌱 Deepening my knowledge of **distributed systems, IaC, and AI-driven cloud automation**
+- 🔭 Recently built **[HireFusion AI](https://github.com/Godesivaramakrishna/HireFusionAI)** — a serverless resume screening & interview analysis platform on AWS
+- 🌱 Currently deepening my knowledge of **distributed systems, IaC, and AI-driven cloud automation**
 - 💬 Ask me about **AWS Lambda · Terraform · Docker · FastAPI · Flask · CI/CD**
 - 🤝 Open to collaborating on **AWS serverless projects, AI applications, and cloud automation**
 - 🏆 402/4041 on LeetCode's global ladder · 300+ problems solved across LeetCode & GeeksforGeeks combined
@@ -72,15 +72,15 @@ I'm an **AWS Certified Developer Associate (2026)** who designs and ships **serv
 
 ### 🚀 Featured Projects
 
-#### 🔍 [HireFusion AI — Serverless Resume & Interview Analysis Platform](https://github.com/Godesivaramakrishna/HireFusionAI)
-> Cuts resume-screening time from hours to under 2 minutes
+#### 🩸 [Arogya Deeksha — Blood Donation Management System](https://github.com/Godesivaramakrishna/blooddonation)
+> Real-time donor & blood bank discovery with zero idle costs
 
-- Built a fully **serverless pipeline** with Lambda + Textract + Rekognition, auto-triggered by S3 uploads
-- Replaced hosted servers with **Lambda + API Gateway** (pay-per-request), eliminating idle compute costs
-- Designed a **DynamoDB schema** returning candidate results in under 10 ms
-- Handles concurrent requests reliably through scalable serverless architecture
+- Deployed a **Dockerized Flask app on GCP Cloud Run** — cold start under 1.5s, scales to zero when idle
+- Integrated **Google Maps API** for real-time nearby donor and blood bank discovery
+- Automated container builds and deployments via **GitHub Actions** on every merge to main
+- Designed the MySQL schema and led a 6-person development team
 
-`AWS Lambda` `S3` `Textract` `Rekognition` `DynamoDB` `API Gateway` `CloudWatch` `Python` `JavaScript`
+`Python (Flask)` `Docker` `GCP Cloud Run` `GitHub Actions` `Google Maps API` `MySQL`
 
 #### ☁️ [CloudCompare AI — Cloud & AI Tool Comparison SaaS Platform](https://github.com/Godesivaramakrishna/Cloud-Compare-AI)
 > Side-by-side comparison of AWS, Azure, GCP, OCI, and leading AI platforms
@@ -91,15 +91,15 @@ I'm an **AWS Certified Developer Associate (2026)** who designs and ships **serv
 
 `Java 21` `Spring Boot 3.2.5` `React 19` `Tailwind CSS` `Terraform` `AWS` `Docker` `Jenkins` `SonarQube` `Groq AI` `MySQL`
 
-#### 🩸 [Arogya Deeksha — Blood Donation Management System](https://github.com/Godesivaramakrishna/blooddonation)
-> Real-time donor & blood bank discovery with zero idle costs
+#### 🔍 [HireFusion AI — Serverless Resume & Interview Analysis Platform](https://github.com/Godesivaramakrishna/HireFusionAI)
+> Cuts resume-screening time from hours to under 2 minutes
 
-- Deployed a **Dockerized Flask app on GCP Cloud Run** — cold start under 1.5s, scales to zero when idle
-- Integrated **Google Maps API** for real-time nearby donor and blood bank discovery
-- Automated container builds and deployments via **GitHub Actions** on every merge to main
-- Designed the MySQL schema and led a 6-person development team
+- Built a fully **serverless pipeline** with Lambda + Textract + Rekognition, auto-triggered by S3 uploads
+- Replaced hosted servers with **Lambda + API Gateway** (pay-per-request), eliminating idle compute costs
+- Designed a **DynamoDB schema** returning candidate results in under 10 ms
+- Handles concurrent requests reliably through scalable serverless architecture
 
-`Python (Flask)` `Docker` `GCP Cloud Run` `GitHub Actions` `Google Maps API` `MySQL`
+`AWS Lambda` `S3` `Textract` `Rekognition` `DynamoDB` `API Gateway` `CloudWatch` `Python` `JavaScript`
 
 ---
 
