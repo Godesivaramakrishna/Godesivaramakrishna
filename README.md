@@ -34,33 +34,71 @@
 
 # `01` · ENGINEERING IDENTITY
 
-```python
-class CloudBackendEngineer:
+<div align="center">
 
-    role = "Cloud & Backend Engineer"
+### ☁️ CLOUD & BACKEND ENGINEER
 
-    focus = [
-        "Cloud Architecture",
-        "Backend Engineering",
-        "Distributed Systems",
-        "Serverless Architecture",
-        "DevOps & Automation",
-        "AI × Cloud Integration"
-    ]
+**Building cloud-native systems, scalable backends, automation pipelines and AI-integrated applications.**
 
-    education = {
-        "degree": "B.Tech — Electronics & Communication Engineering",
-        "college": "Aditya College of Engineering and Technology",
-        "graduation": 2027,
-        "cgpa": "7.81 / 10"
-    }
+<br/>
 
-    certification = "AWS Certified Developer — Associate"
+<table>
+<tr>
 
-    philosophy = "Build → Understand → Automate → Scale → Improve"
-```
+<td align="center" width="33%">
 
-> I build cloud-native applications, backend systems, automation pipelines and AI-integrated solutions — with a growing focus on distributed systems and production engineering.
+### ☁️ CLOUD
+
+AWS · GCP
+Serverless Architecture
+Cloud Infrastructure
+Infrastructure as Code
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ BACKEND
+
+Python · Java
+Spring Boot · FastAPI
+REST APIs · Microservices
+Distributed Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI × CLOUD
+
+AI APIs
+Cloud AI Services
+NLP & Intelligent Systems
+AI Application Integration
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+|                 🎓 Education                 |             🏆 Certification            |              🎯 Engineering Philosophy              |
+| :------------------------------------------: | :-------------------------------------: | :-------------------------------------------------: |
+|               **B.Tech — ECE**               | **AWS Certified Developer — Associate** | **Build → Understand → Automate → Scale → Improve** |
+| Aditya College of Engineering and Technology |        Amazon Web Services · 2026       |        Reliability · Scalability · Automation       |
+
+<br/>
+
+### 🔭 Current Engineering Focus
+
+`Cloud Architecture` · `Backend Engineering` · `Distributed Systems` · `Serverless` · `DevOps` · `AI × Cloud`
+
+<br/>
+
+> I build systems with a strong focus on **reliability, automation, scalability, observability, security and maintainability** — continuously moving from application development toward production-grade cloud engineering.
+
+</div>
 
 ---
 
@@ -76,9 +114,9 @@ class CloudBackendEngineer:
 
 <b>CLOUD</b>
 
-AWS  
-GCP  
-Serverless  
+AWS
+GCP
+Serverless
 Infrastructure
 
 </td>
@@ -89,9 +127,9 @@ Infrastructure
 
 <b>BACKEND</b>
 
-Python  
-Java  
-Spring Boot  
+Python
+Java
+Spring Boot
 FastAPI
 
 </td>
@@ -102,9 +140,9 @@ FastAPI
 
 <b>SYSTEMS</b>
 
-Distributed Systems  
-System Design  
-Scalability  
+Distributed Systems
+System Design
+Scalability
 APIs
 
 </td>
@@ -115,9 +153,9 @@ APIs
 
 <b>AI</b>
 
-AI APIs  
-NLP  
-Cloud AI  
+AI APIs
+NLP
+Cloud AI
 AI Integration
 
 </td>
@@ -128,9 +166,9 @@ AI Integration
 
 <b>DEVOPS</b>
 
-Docker  
-Terraform  
-CI/CD  
+Docker
+Terraform
+CI/CD
 Automation
 
 </td>
@@ -665,70 +703,14 @@ A cloud-native platform designed to connect blood donors and blood banks through
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </picture>
 
+<br/>
+
+### 🐍 Contribution activity, visualized.
+
 </div>
-
-> **Important:** The snake requires a GitHub Action in the profile repository. The README alone cannot generate the SVG.
-
-### `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Godesivaramakrishna
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After pushing this workflow:
-
-**Repository → Actions → Generate Contribution Snake → Run workflow**
-
-The workflow generates:
-
-```text
-dist/
-├── github-contribution-grid-snake.svg
-└── github-contribution-grid-snake-dark.svg
-```
-
-and publishes them to:
-
-```text
-output/
-├── github-contribution-grid-snake.svg
-└── github-contribution-grid-snake-dark.svg
-```
-
-Your README then loads the files directly from the `output` branch.
 
 ---
 
@@ -881,3 +863,70 @@ Your README then loads the files directly from the `output` branch.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=130&section=footer" width="100%"/>
 
 </div>
+```
+
+### Important: the snake workflow is **not** supposed to be inside your README
+
+This is the part that was wrong in the previous version. Your **README only needs the snake image** shown above.
+
+The actual workflow should be a **separate file**:
+
+`.github/workflows/snake.yml`
+
+Use this there:
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Godesivaramakrishna
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+So your profile repository should ultimately look like:
+
+```text
+Godesivaramakrishna/
+│
+├── README.md
+│
+└── .github/
+    └── workflows/
+        └── snake.yml
+```
+
+And after the Action runs:
+
+```text
+output branch
+│
+├── github-contribution-grid-snake.svg
+└── github-contribution-grid-snake-dark.svg
+```
+
+**That is the actual setup you want:** README = displays the snake; GitHub Action = generates the snake. No YAML clutter in your profile README.
