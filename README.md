@@ -35,7 +35,7 @@
 # `01` · ENGINEERING IDENTITY
 
 ```python
-class GodeSivaramakrishnaDurgaprasad:
+class CloudBackendEngineer:
 
     role = "Cloud & Backend Engineer"
 
@@ -76,9 +76,9 @@ class GodeSivaramakrishnaDurgaprasad:
 
 <b>CLOUD</b>
 
-AWS
-GCP
-Serverless
+AWS  
+GCP  
+Serverless  
 Infrastructure
 
 </td>
@@ -89,9 +89,9 @@ Infrastructure
 
 <b>BACKEND</b>
 
-Python
-Java
-Spring Boot
+Python  
+Java  
+Spring Boot  
 FastAPI
 
 </td>
@@ -102,9 +102,9 @@ FastAPI
 
 <b>SYSTEMS</b>
 
-Distributed Systems
-System Design
-Scalability
+Distributed Systems  
+System Design  
+Scalability  
 APIs
 
 </td>
@@ -115,9 +115,9 @@ APIs
 
 <b>AI</b>
 
-AI APIs
-NLP
-Cloud AI
+AI APIs  
+NLP  
+Cloud AI  
 AI Integration
 
 </td>
@@ -128,9 +128,9 @@ AI Integration
 
 <b>DEVOPS</b>
 
-Docker
-Terraform
-CI/CD
+Docker  
+Terraform  
+CI/CD  
 Automation
 
 </td>
@@ -662,17 +662,17 @@ A cloud-native platform designed to connect blood donors and blood banks through
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Godesivaramakrishna/Godesivaramakrishna/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 > **Important:** The snake requires a GitHub Action in the profile repository. The README alone cannot generate the SVG.
 
-Create:
-
-`.github/workflows/snake.yml`
-
-with:
+### `.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Contribution Snake
@@ -680,6 +680,7 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -691,27 +692,43 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Godesivaramakrishna
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
 ```
 
-After pushing this workflow, go to:
+After pushing this workflow:
 
 **Repository → Actions → Generate Contribution Snake → Run workflow**
 
-After it successfully runs, the snake image should appear.
+The workflow generates:
+
+```text
+dist/
+├── github-contribution-grid-snake.svg
+└── github-contribution-grid-snake-dark.svg
+```
+
+and publishes them to:
+
+```text
+output/
+├── github-contribution-grid-snake.svg
+└── github-contribution-grid-snake-dark.svg
+```
+
+Your README then loads the files directly from the `output` branch.
 
 ---
 
